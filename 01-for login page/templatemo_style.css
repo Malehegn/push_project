@@ -1,0 +1,486 @@
+
+body {
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	font-family: Verdana, Arial, san-serif;
+	font-size: 11px;
+	color: #ffffff;
+	background: #4b4743;
+}
+
+a:link, a:visited { color: #e6e154; text-decoration: none; font-weight: bold;} 
+a:active, a:hover { color: #e6e154; text-decoration: underline;}
+
+p {
+	margin: 0px;
+	padding: 0px;
+}
+
+img {
+	margin: 0px;
+	padding: 0px;
+	border: none;
+}
+
+
+.cleaner {
+	clear: both;
+	width: 100%;
+	height: 1px;
+	font-size: 1px;	
+}
+
+.cleaner_with_height {
+	clear: both;
+	width: 100%;
+	height: 30px;
+	font-size: 1px;	
+}
+
+.cleaner_with_width {
+	float: left;
+	width: 20px;
+	height: 30px;
+	font-size: 1px;	
+}
+
+.buy_now_button a{
+	clear: both;
+	text-align: center;
+	display: block;
+	width: 100px;
+	padding: 4px 0 5px 0;
+	margin-bottom: 10px; 
+	background: url(images/templatemo_btn_02.jpg) no-repeat;
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+.detail_button a{
+	clear: both;
+	text-align: center;
+	display: block;
+	width: 100px;
+	padding: 4px 0 5px 0;
+	margin-bottom: 10px; 
+	background: url(images/templatemo_btn_01.jpg) no-repeat;
+	color: #ffffff;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+#templatemo_container{
+	width: 950px;
+	margin: 0 auto;
+	padding: 0 0px;
+	background:  url(images/templatemo_bg.jpg)  ;
+}
+
+
+
+
+/* header */
+#templatemo_header {
+	clear: both;
+	width: 960px;
+	height: 285px;
+	padding: 0;
+	margin: 0;
+	background: url(images/templatemo_header_bg_blank.jpg) no-repeat;
+}
+
+#templatemo_header a,a:hover {
+	color: #ffffff;
+}
+
+#templatemo_header #templatemo_special_offers {
+	float: left;
+	font-size: 14px;	
+	margin-top: 95px;
+	margin-left: 490px;
+	width: 180px;
+}
+
+#templatemo_special_offers a {
+	font-size: 12px;
+	
+}
+
+#templatemo_special_offers  p {
+	margin: 0 0 20px 0;
+	
+}
+#templatemo_special_offers p span {
+	font-size: 18px;
+}
+
+#templatemo_header #templatemo_new_books {
+	float: left;
+	margin-top: 90px;	
+	margin-left: 55px;
+	width: 180px;
+}
+
+#templatemo_new_books ul {
+	 margin: 0 0 10px 0;
+	 padding: 0 0 0 20px;
+}
+
+#templatemo_new_books li {
+	 margin: 0;
+	 padding: 0; 
+}
+
+
+/* end of header */
+
+
+/* content */
+#content {
+	background-image:url(images/content.png);
+	background-repeat:no-repeat;
+	float:right;
+	height: 480px;
+    margin-right: 0;
+    margin-top: 17px;
+	width:350px;
+}
+#content p{
+}
+.cleaner_with_height p{
+	margin:-10px 60px 6px -3px;
+}
+#contento{
+	width:450px;
+	float:left;
+	margin:20px 0px 0px 50px;
+}
+#templatemo_content {
+	clear: both;
+	width: 920px;
+	padding: 0 20px;
+}
+
+#templatemo_content #templatemo_content_left {
+	float: left;
+	width: 188px;
+	padding: 10px;
+	background-color: #171716;
+	border: 1px solid #212120;
+}
+
+#templatemo_content #templatemo_content_right {
+	float: right;
+	width: 680px;
+	
+}
+
+.left{
+float:left;
+}
+
+
+
+
+
+#templatemo_content_left .templatemo_content_left_section{
+	clear: both;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #2b2b2a;
+	margin-bottom: 20px;
+}
+
+.templatemo_content_left_section h1 {
+	font-size: 14px;
+	color: #cbc750;
+	padding: 0 0 5px 0;
+	margin: 0 0 10px 0;
+	border-bottom: 1px dotted #cbc750;
+}
+
+.templatemo_content_left_section ul {
+	padding: 0;
+	margin: 0;
+}
+
+.templatemo_content_left_section ul li{
+	padding: 0 0 3px 10px;	
+	list-style: none;
+}
+
+.templatemo_content_left_section ul li a{
+	font-weight: normal;
+	text-decoration: none;
+	color: #969547;
+}
+
+.templatemo_content_left_section li a:hover, .templatemo_content_left_section li .current{
+	color: #fcf88e;
+}
+
+
+
+
+
+#templatemo_content_right .templatemo_product_box {
+	float: left;
+	width: 303px;
+	height: 210px;
+	padding: 10px;
+	border: 1px solid #333;
+}
+
+#templatemo_content_right h1 {
+	padding: 10px;
+	margin: 0 0 20px 0;
+	font-size: 15px;
+	color: #cbc750;
+	/*background: url(images/templatemo_h1_bg.jpg);*/
+}
+
+#templatemo_content_right h2 {
+	padding: 0 0 0 0;
+	margin: 0 0 20px 0;
+	font-size: 12px;
+	color: #e6e154;
+}
+
+#templatemo_content_right h3 {
+	padding: 0;
+	margin: 0 0 20px 0;
+	font-size: 18px;
+	color: #85391f;
+}
+
+#templatemo_content_right ul {
+	margin: 0 0 20px 0;
+	padding: 0 0 0 20px;
+	list-style: none;
+}
+
+#templatemo_content_right li {
+	padding: 0 0 3px 0;
+}
+
+#templatemo_content_right .image_panel {
+	float: left;
+	width: 100px;
+	margin-right: 20px;
+}
+
+#templatemo_content_right p {
+	text-align: justify;
+	padding: 0 0 8px 0;
+}
+
+.templatemo_product_box h1 span {
+	font-weight: normal;
+}
+
+.templatemo_product_box img {
+	float: left;
+	margin-right: 20px;
+}
+
+.templatemo_product_box .product_info {
+	float: left;
+	width: 180px;
+}
+
+.product_info p {
+	margin-bottom: 15px;
+}
+
+/* end of content */
+
+/* footer */
+#templatemo_footer {
+	clear: both;
+	width: 960px;
+	padding: 20px 0px 15px 0;
+	text-align: center;
+	border-top: 0px solid #25211e;
+	color: #999;
+	background-color: #FFFFFF;
+	background-image:url(images/templatemo_footer_bg.jpg);
+}
+
+#templatemo_footer a{
+	color: #fff;
+	font-weight: normal;
+}
+/* end of footer */
+/*button*/
+#web-buttons-idfxkii a{
+	display:block;color:transparent;
+	} 
+#web-buttons-idfxkii a:hover{
+	background-position:left bottom;
+	}
+a#web-buttons-idfxkiia {
+	display:none
+	}
+/* end of button*/
+/*start of layer*/
+#Layer1 {
+	position:absolute;
+	top:135px;
+	width:273px;
+	height:115px;
+	z-index:1;
+	left: 340px; top: 135px;
+}
+.style5{
+	color:#004000;
+	font-size: 10px;
+}
+.style1 {
+	color: #FFCC00;
+	font-weight:bold;
+	font-size: 24px;
+}
+.style2 {color: #FFCC00; font-size: 42px; }
+.style4 {font-family:"Bradley Hand ITC"; font-weight: bolder; font-size: 24px; }
+.style6  {font-family:"Bradley Hand ITC"; font-weight: bolder; font-size: 24px; }
+/*end of layer*/
+/*for my revised button*/
+input.btn {
+	color:#FFFFFF;
+	font: bold small 'trebuchet ms',helvetica,sans-serif;
+	/*background-color: #CC0033;*/
+	border:1px solid;
+	border-color: #330099 #330099 #330099 #330099;
+	background-image: url(images/bg_on_button.jpg);
+	
+} 
+/*end for my revised button*/
+
+
+
+/*------ categories -------*/
+#nav{
+	clear: both;
+	width: 960px;
+	height: 45px;
+	background: url(images/templatemo_menu_bg.jpg);
+}
+#nav ul{
+	margin:0;
+	padding:0;
+	line-height:30px;
+}
+#nav li{
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+	position:relative;
+	
+}
+#nav ul li a{
+	text-align:center;
+	height:40px;
+	width:100px;
+	display:block;
+	
+}
+#nav ul ul{
+ 	
+	position:absolute;
+	visibility:hidden;
+	top:30px;
+}
+#nav ul li:hover ul{	
+	visibility:visible;
+	width:180px;
+	background-image:url(images/templatemo_list_bg.jpg);
+	
+}
+#nav a:hover{
+	color: #fcf88e;
+}
+#nav li a:hover, #nav li .current{
+	color: #fcf88e;
+	
+}
+/*----------menu navigator------------------*/
+#nav{
+	clear: both;
+	width: 960px;
+	height: 45px;
+	background: url(images/templatemo_menu_bg.jpg);
+}
+#nav ul{
+	margin:0;
+	padding:0;
+	line-height:30px;
+}
+#nav li{
+	margin:0;
+	padding:0;
+	list-style:none;
+	float:left;
+	position:relative;
+}
+#nav ul li a{
+	text-align:center;
+	text-decoration:none;
+	height:35px;
+	width:116px;
+	display:block;
+	background-image:url(images/templatemo_list_bg.jpg);
+	
+}
+#nav ul ul{
+	position:absolute;
+	visibility:hidden;
+	
+	top:30px;
+}
+#nav ul li:hover ul{
+	visibility:visible;
+	width:50px;
+	
+	}
+#nav a:hover{
+	color:#000000;
+	background-image:url(images/templatemo_list_bg.jpg);
+
+}
+/* menu */
+
+#templatemo_menu {
+	clear: both;
+	width: 960px;
+	height: 45px;
+	background: url(images/templatemo_menu_bg.jpg);
+}
+
+#templatemo_menu ul {
+	padding: 13px 0 0 0;
+	margin: 0;
+	list-style: none;
+}
+
+#templatemo_menu ul li{
+	display: inline;
+}
+
+#templatemo_menu ul li a{
+	float: left;
+	padding: 0 20px;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none;
+	color: #969547;
+}
+
+#templatemo_menu li a:hover, #templatemo_menu li .current{
+	color: #fcf88e;
+	
+}
+
+/* end of menu*/

@@ -1,0 +1,18 @@
+Instructions:
+
+01-Copy online grade folder to your wamp directory.
+
+02-create a database name onlinegradeinquiry and import the onlinegradeinquiry.sql to phpmyadmin.
+
+03-Example:
+
+Username for Student:29000143
+Password for Student:mimi
+
+Username for Teacher:1111
+Password for Teacher:9999
+
+Username for Admin:admin
+Password for Admin:admin
+
+That's it...enjoy. . . 
